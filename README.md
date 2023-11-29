@@ -1,1 +1,1 @@
-# This project about a basic Java application that allows users to create a task list. Users should be able to add,remove, and list tasks. The program should have a simple text-based user interface 
+# This is a simple task list application using Java. By this java application,one can add new tasks, save them delete them if need. The java user interface is implemented using java swing and awt.
